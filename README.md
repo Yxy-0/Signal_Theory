@@ -1,1 +1,1 @@
-# Teoria_De_Se-ales
+# Signal theory
