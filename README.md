@@ -1,1 +1,1 @@
-# Signal theory
+# Talleres teoria de señales
